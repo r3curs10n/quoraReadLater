@@ -1,0 +1,28 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="pp.css">
+</head>
+<body>
+
+<script src="jq.js"></script>
+
+<script src="pp.js">
+
+</script>
+
+<div class="container">
+
+<div class="top">
+<img class="logo" src="logo.png" />
+<div class="title"><span class="ttext">Reading List</span></div>
+</div>
+
+<ul class="lst">
+</ul>
+<div class="footer">
+<a href="#" class="clr">Clear Reading List</a>
+</div>
+</div>
+
+</body>
+</html>
